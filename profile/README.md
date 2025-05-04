@@ -1,3 +1,3 @@
-👋 Welcome to UnitVectorY Labs, a collection of open-source projects maintained by [Jared Hatfield](https://github.com/JaredHatfield). My focus is on developing useful tools and libraries primarily in Java, many of which are available on [Maven Central](https://mvnrepository.com/artifact/com.unitvectory) as well as simple utilities and applications written in Go.
+👋 Welcome to **UnitVectorY Labs**, a collection of open-source projects created and maintained by [Jared Hatfield](https://github.com/JaredHatfield). You’ll find Java libraries published on [Maven Central](https://mvnrepository.com/artifact/com.unitvectory), alongside Go-based command-line tools and a variety of GCP utilities. Many of these projects are packaged as Docker containers and published to [GitHub Packages](https://github.com/orgs/UnitVectorY-Labs/packages).
 
-📚 For overviews of best practices and a categorized list of the projects visit [UnitVectorY Labs Guide](https://guide.unitvectorylabs.com/).
+📚 For best practices and a categorized project overview, see the [UnitVectorY Labs Guide](https://guide.unitvectorylabs.com/).
